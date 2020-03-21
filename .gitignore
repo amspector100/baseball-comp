@@ -1,6 +1,7 @@
 
 # No raw data data
 data/raw/*
+data/processed/test.csv
 
 # No .Rout files
 *.Rout
